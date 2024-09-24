@@ -305,8 +305,11 @@ a,
   gap: 2.5rem;
 }
 
-article {
+.article {
   width: 8rem;
+}
+.resume{
+  cursor: pointer;
 }
 
 /* PROJECTS SECTION */
