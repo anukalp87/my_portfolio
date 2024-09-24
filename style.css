@@ -131,7 +131,7 @@ nav {
 
 section {
   padding-top: 4vh;
-  height: 93vh;
+  /* height: 93vh; */
   margin: 0 10rem;
 }
 
@@ -306,7 +306,7 @@ a,
 }
 
 article {
-  width: 10rem;
+  width: 8rem;
 }
 
 /* PROJECTS SECTION */
@@ -314,6 +314,8 @@ article {
 .project-img {
   width: 90%;
   height: 90%;
+  border-radius: 2rem;
+  box-shadow: 5px 5px 15px rgba(255, 252, 252, 0.5);
 }
 
 .color-container,
@@ -335,7 +337,7 @@ article {
 
 .contact-info-container,
 article {
-  gap: 0.5rem;
+  gap: 0.1rem;
 }
 
 .contact-info-container,
